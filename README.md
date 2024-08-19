@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer and Full-Stack 
   Co-founder and Lead Instructor. Founded and managed the MVGR Coding Club, engaging 300-350 students. Taught web development and DSA, and organized coding contests.
 
 - **CodeSpeedy Technologies** (Sept 2023 - Feb 2024)  
-  Software Developer Intern. Developed Novizit app using React-Native and TailwindCSS, reducing development time by 25% through reusable components and optimized code.
+  Writing clean, maintainable, and efficient Python code to meet project requirements, adhering to best practices and coding standards.
 
 ## 🎓 Education
 
