@@ -60,6 +60,8 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer and Full-Stack 
 
 ## 📊 GitHub Stats
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sathishsara1&show_icons=true&theme=dark)
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sathishsara1&theme=dark)  
 
 ## 📅 Open to Collaborations
 
