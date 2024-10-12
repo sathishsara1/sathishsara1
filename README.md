@@ -2,6 +2,10 @@
 
 I'm a passionate Software Engineer and Full-Stack Developer, always eager to create innovative solutions and explore new technologies.
 
+Here's a career objective you can use for your profile, emphasizing your desire to continue in full-stack development:
+
+# 🎯 Career Objective
+As a passionate and dedicated Software Engineer, I aim to leverage my skills in full-stack development to create innovative and scalable web applications. With a solid foundation in both front-end and back-end technologies, I seek opportunities to contribute to impactful projects and collaborate with like-minded professionals. My goal is to enhance user experiences while continuously expanding my technical knowledge and expertise in the evolving tech landscape.
 ## 💻 Tech Stack
 
 ### **Web Technologies**
