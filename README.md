@@ -37,7 +37,7 @@ As a passionate and dedicated Software Engineer, I aim to leverage my skills in 
 ## 🌐 Connect with Me
 
 - [Instagram](https://www.instagram.com/_sathish_sara/)
-- [LinkedIn](https://www.linkedin.com/in/sathish-sara-5b062423b/)
+- [LinkedIn](https://www.linkedin.com/in/sathish-svs-5b062423b/)
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/sathishs8w02/)
 - [LeetCode](https://leetcode.com/u/sathishsara/)
 
